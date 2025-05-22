@@ -51,3 +51,5 @@
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/6ae33524-a50c-4e93-850d-3244396a3317)
+
